@@ -5,6 +5,7 @@ __________    _____  __    ________ ________
  |    |   \/    ^   /    <  /       \|    `   \
  |______  /\____   ||__|_ \/______  /_______  /
         \/      |__|     \/       \/        \/ 
+        
 This post will show how you can make a small and easy-to-use port scanner program written in Python. There are many ways of doing this with Python, and I’m going to do it using the built-in module Socket.
 Sockets
 
